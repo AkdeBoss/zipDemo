@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CompressionTest</string>
+    <string name="compressDialog">Compress Something</string>
+</resources>
